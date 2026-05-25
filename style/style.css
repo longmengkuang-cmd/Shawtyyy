@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(245, 238, 238);
+}
+table{
+    width: 90%;
+}
+td{
+    text-align: center;
+}
+img{
+    width: 200px;
+    height: 200px;
+    mix-blend-mode: multiply;
+}
+.logo{
+    background-color: grey;
+}
+.head{
+    background: rgb(214, 197, 197);
+}
+button{
+    background: yellow;
+    border-radius: 5px;
+}
+h1{
+    color: rgb(6, 6, 6);
+}
+h2{
+    color: red;
+}
+h3{
+    color: black;
+}
